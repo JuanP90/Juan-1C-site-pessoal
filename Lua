@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+    <html>
+
+        <head>
+            <link rel="stylesheet" type="text/css" href="Style_Lua.css">
+            <title>Lua: Satelite Natural</title>
+        </head>
+
+        <body>
+            <div>
+            <h1 id="h1" ><strong>INTRODUÇÃO</strong></h1>
+
+            <img id="lua_img" src="2022-09-25_18.42.04.png">
+            
+            <p style="font-size: 20px ;"> Como todos sabem, ou deveriam saber, a Lua é nosso satélite natural e, por sua vez, exerce várias funções além de ser a atração principal do céu.
+            Sendo assim um dos elementos mais belos que voce pode ver apenas olhando para o céu á noite. Será dito mais a frente sobre relogiões onde ela esta presente e significadosnque ela
+            pode ter, mas primeiro, alguns fatos cientificos sobre tal beleza natural.</p>
+
+            </div>
+            <h2 style="text-align: center ;font-size: 35px;"><em><strong>Fatos cientificos</strong></em></h2>
+
+            <p>Esta parte retrata apenas sobre fatos e estudos sobre a Lua, porém é a parte mais interesante a se tratar quando falamos dela.</p>
+
+            <p>Começando pelo basico, a Lua está a 384.400km da Terra atualmente; e algumas funções conhecidas que ela exerce são o movimento orbital da Lua ao redor da Terra estabiliza o eixo de
+             rotação do planeta, mantendo sua inclinação fixa em cerca de 23 graus em relação ao plano de sua órbita (essa inclinação é a responsável pela existência das estações do modo como a
+            conhecemos), </p>
+        </body>
+
+    </html>
